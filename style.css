@@ -1,0 +1,52 @@
+/* CSS */
+
+body {
+    background-color: #6eb41e2c;
+}
+.container {
+    max-width: 1300px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #3065f72a;
+    border: 2px solid #111111;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+
+  .form-control-sm {
+    background-color: #30f7e63b;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 5px;
+  }
+
+  .btn {
+    background-color: #2e2753ea;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+  }
+  
+  .table {
+    margin: 20px 0;
+    border-collapse: collapse;
+  }
+  
+  .table th,.table td {
+    border: 1px solid #0c0c0c;
+    padding: 10px;
+    text-align: center;
+    background-color: #1aabc446;
+  }
+  
+  .table th {
+    background-color: #209bac;
+  }
+  
+  .table td:hover {
+    background-color: #2f54fc3b;
+  }
